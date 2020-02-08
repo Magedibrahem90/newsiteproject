@@ -1,2 +1,2 @@
-# Atia-app
+# majid-app
 New project
